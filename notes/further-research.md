@@ -1,3 +1,6 @@
 - [IPX](https://en.wikipedia.org/wiki/Internetwork_Packet_Exchange)
 - ATM (PPP->PPOA) in pfsense
 - Ask dad about car phone and DSL protocol
+- 802.12 -> "new" ethernet
+- DIFS|LLD -> interframe spacing or how we get layer 2 QOS
+- Perlman (2000) Yu (2011) -> bridge stuff
