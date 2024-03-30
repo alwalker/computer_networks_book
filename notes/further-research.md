@@ -1,0 +1,3 @@
+- [IPX](https://en.wikipedia.org/wiki/Internetwork_Packet_Exchange)
+- ATM (PPP->PPOA) in pfsense
+- Ask dad about car phone and DSL protocol
