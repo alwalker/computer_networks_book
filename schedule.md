@@ -1,4 +1,2 @@
-- Network Layer - 140 (3 weeks) - April 19
-- Transport Layer - 116 (2 weeks) - May 3
-- Application Layer -152 (3 weeks) - May 24
-- Network Security - 114 (1 week) - May 31
+- Application Layer - June 14
+- Network Security - June 30
