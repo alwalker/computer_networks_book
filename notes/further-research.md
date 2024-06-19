@@ -13,3 +13,12 @@
 - Play with netstat
 - BSD Sockets
 - atop net stats
+- dns 0x20 encoding
+- dnssec and alternatives
+- oblivious dns
+- Vannevar Bush -> Linked Pages
+- NGINX -> http2 -> Server Push
+- QUIC/HTTP3 -> http3.net
+- MPP & Plex (multiple files per res/frame rate) | HLS (http live streaming/apple/RFC8216)
+- Netflix OpenConnect -> CDN
+- Lookup history of Akami

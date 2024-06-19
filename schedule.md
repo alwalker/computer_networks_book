@@ -1,2 +1,0 @@
-- Application Layer - June 14
-- Network Security - June 30
