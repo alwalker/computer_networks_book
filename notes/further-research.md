@@ -1,9 +1,5 @@
 - Ask dad about car phone and DSL protocol
 - GLOP broadcasting
-- inetd => Unix port collector/multiple
-- TCP cubic and why did linux diverge from BDS
-- SCTP & SST -> TCP alternatives
-- Play with netstat
 - BSD Sockets
 - dnssec and alternatives
 - oblivious dns
